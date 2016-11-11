@@ -1,0 +1,45 @@
+Name: Deepak Garg	
+USC ID: 4997637387
+News site crawled: wsj.com  (Wall Street Journal)
+
+
+Fetch Statistics:
+================
+fetches attempted: 10000
+fetches succeeded: 9392
+fetches aborted: 537
+fetches failed: 71
+
+Outgoing URLs:
+=============
+Total URLs extracted: 864980
+# unique URLs extracted: 53984
+# unique URLs extracted within News site: 27946
+# unique URLs outside News Site: 26038
+
+Status Code:
+===========
+200 OK : 9392
+504 null : 1
+400 Bad request : 1
+404 Not Found : 69
+301 MOVED Permanently : 470
+302 MOVED Temporarily : 67
+
+
+File Sizes:
+==========
+< 1KB: 11
+1KB ~ < 10KB: 67
+10KB ~ < 100KB: 4883
+100KB ~ < 1MB: 4428
+>= 100MB: 3
+
+Content Types:
+=============
+image/png: 3
+application/pdf: 0
+text/html: 9300
+image/jpeg: 36
+image/gif: 47
+

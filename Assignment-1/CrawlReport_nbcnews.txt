@@ -1,0 +1,39 @@
+Name: Deepak Garg	
+USC ID: 4997637387
+News site crawled: nbcnews.com  (NBC NEWS)
+
+
+Fetch Statistics:
+================
+fetches attempted: 9999
+fetches succeeded: 9818
+fetches aborted: 63
+fetches failed: 118
+
+Outgoing URLs:
+==============
+Total URLs extracted: 393350
+# unique URLs extracted: 112404
+# unique URLs extracted within News site: 23147
+# unique URLs outside News Site: 89257
+
+Status Code:
+============
+404 Not Found : 118
+302 MOVED Temporarily : 2
+301 MOVED Permanently : 61
+200 OK : 9818
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ < 10KB: 0
+10KB ~ < 100KB: 3077
+100KB ~ < 1MB: 6711
+>= 100MB: 30
+
+Content Types:
+==============
+image/png: 0
+text/html: 9817
+
